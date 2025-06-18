@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 488fa05428c8a4040ab4e5e51f2b851d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2125248848834387729
+    second: rino_spriteSheet_0
+  - first:
+      213: 1345599042412739570
+    second: rino_spriteSheet_1
+  - first:
+      213: 372286724044713664
+    second: rino_spriteSheet_2
+  - first:
+      213: -5581232107252187832
+    second: rino_spriteSheet_3
+  - first:
+      213: -2235212582345603329
+    second: rino_spriteSheet_4
+  - first:
+      213: 6553382603913456308
+    second: rino_spriteSheet_5
+  - first:
+      213: -7365022102940393563
+    second: rino_spriteSheet_6
+  - first:
+      213: 789504111174395625
+    second: rino_spriteSheet_7
+  - first:
+      213: 7741913850945626703
+    second: rino_spriteSheet_8
+  - first:
+      213: 6423257758390043376
+    second: rino_spriteSheet_9
+  - first:
+      213: 8987506646266623960
+    second: rino_spriteSheet_10
+  - first:
+      213: -3555072345402878290
+    second: rino_spriteSheet_11
+  - first:
+      213: 2089446627142360363
+    second: rino_spriteSheet_12
+  - first:
+      213: 5439310692039213410
+    second: rino_spriteSheet_13
+  - first:
+      213: 1736037709178452613
+    second: rino_spriteSheet_14
+  - first:
+      213: -8748644672640420920
+    second: rino_spriteSheet_15
+  - first:
+      213: -1915053777636719370
+    second: rino_spriteSheet_16
+  - first:
+      213: -5274397047187732017
+    second: rino_spriteSheet_17
+  - first:
+      213: -8247993655716651612
+    second: rino_spriteSheet_18
+  - first:
+      213: 9119122498961731720
+    second: rino_spriteSheet_19
+  - first:
+      213: -5414255939303576285
+    second: rino_spriteSheet_20
+  - first:
+      213: 3092895052839355509
+    second: rino_spriteSheet_21
+  - first:
+      213: 7247708846461125751
+    second: rino_spriteSheet_22
+  - first:
+      213: -2740693345971913328
+    second: rino_spriteSheet_23
+  - first:
+      213: -8236248627166759748
+    second: rino_spriteSheet_24
+  - first:
+      213: -8793088521534441623
+    second: rino_spriteSheet_25
+  - first:
+      213: -5281923381779675507
+    second: rino_spriteSheet_26
+  - first:
+      213: 6887761653286809012
+    second: rino_spriteSheet_27
+  - first:
+      213: 6338082093693577975
+    second: rino_spriteSheet_28
+  - first:
+      213: -5795798172970399854
+    second: rino_spriteSheet_29
+  - first:
+      213: -2456788468533774016
+    second: rino_spriteSheet_30
+  - first:
+      213: -2678641611115767823
+    second: rino_spriteSheet_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rino_spriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 467
+        width: 136
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60af43ce726acd4408f1e26dcd2ddd14
+      internalID: -973413107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 465
+        width: 137
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8767eda89ac8cc34dbf3165743d77cd3
+      internalID: 1618994164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 466
+        width: 136
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4db4141c8e7da549b376c33853d8cf0
+      internalID: -860307744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 465
+        width: 136
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeffb595f117254fa968724f64af2dc
+      internalID: -1965159958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 465
+        width: 137
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a2ec8306e4bb6498cd6cf4da476e56
+      internalID: -1977440491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 466
+        width: 137
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608454420be0bc14da45902851252fef
+      internalID: -1117295014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 465
+        width: 137
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665968bcd4e5bb14790691e8eea7ac13
+      internalID: -1202803650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 463
+        width: 136
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688b20c4c0d8d034f8f3c9971aed5191
+      internalID: -1857905040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 464
+        width: 134
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2855de069611844ac6c81f1adf9167
+      internalID: -979139595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 466
+        width: 136
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b3b052d3f25f845aa2907fcb5d8337
+      internalID: -989908617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 374
+        width: 136
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7256da8910287e840897eb6695d48649
+      internalID: 706454611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 372
+        width: 137
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b063d9d121780464f9c7525867545cc3
+      internalID: -937532584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 373
+        width: 136
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83c22a7afcbf4e4db188a761be258f2
+      internalID: -1296325303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 372
+        width: 136
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f13580ee8f348c48bf92eab2148390b
+      internalID: 462696698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 372
+        width: 137
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97acfbbdf78c85240ac5c426aed3ee27
+      internalID: -508044576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 373
+        width: 137
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789296d8250c9a44a87b1d9a690786b5
+      internalID: -1417588635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 372
+        width: 137
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747d5d4e61460b54da4587bd6d7295f6
+      internalID: 1027233378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 370
+        width: 136
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f491b28ab8c26d149af75c526d627ae3
+      internalID: -858205797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 371
+        width: 134
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b945a872334290c40b0c0e1c71de3762
+      internalID: -467801525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 373
+        width: 136
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd5f440c535eeb42a0957bdfeae2ec1
+      internalID: 1772806990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 278
+        width: 123
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c66ee095e9a74f4293a0ededb09c68b
+      internalID: 998434777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 278
+        width: 122
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1e2d27797220a43ad8c05c794b87b4
+      internalID: 1811087011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 278
+        width: 122
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18aa6b80b81bba4483b7e3f5ce35964
+      internalID: 1014363170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 278
+        width: 122
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b200804b0151a947b9b20ad9304f879
+      internalID: 1868817190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 278
+        width: 124
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f549d50080c4e498c531db2efe5c3b
+      internalID: -1033592070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 190
+        width: 135
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2ab9987a3cffe46b188daaeeb043a1
+      internalID: -1478899241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 97
+        width: 135
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa03eb60d85eedd4fa580606bf91683b
+      internalID: 1062024478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 123
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e42acc2657b640409dae5b2030225da
+      internalID: -514546565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 122
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd3a47004567ea4894624c47ee0f2dd
+      internalID: -1510128590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 122
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edd2a1f454dead48ac22203405722ae
+      internalID: 66607446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 122
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252554b488cac9a449abb7306a995ae4
+      internalID: -1041710480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_spriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 124
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d57d158ef1fb84b80f72e16164e0bc
+      internalID: -402371382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 10b07a5d997b49447a4302b734867f49
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rino_spriteSheet_0: -973413107
+      rino_spriteSheet_1: 1618994164
+      rino_spriteSheet_10: 706454611
+      rino_spriteSheet_11: -937532584
+      rino_spriteSheet_12: -1296325303
+      rino_spriteSheet_13: 462696698
+      rino_spriteSheet_14: -508044576
+      rino_spriteSheet_15: -1417588635
+      rino_spriteSheet_16: 1027233378
+      rino_spriteSheet_17: -858205797
+      rino_spriteSheet_18: -467801525
+      rino_spriteSheet_19: 1772806990
+      rino_spriteSheet_2: -860307744
+      rino_spriteSheet_20: 998434777
+      rino_spriteSheet_21: 1811087011
+      rino_spriteSheet_22: 1014363170
+      rino_spriteSheet_23: 1868817190
+      rino_spriteSheet_24: -1033592070
+      rino_spriteSheet_25: -1478899241
+      rino_spriteSheet_26: 1062024478
+      rino_spriteSheet_27: -514546565
+      rino_spriteSheet_28: -1510128590
+      rino_spriteSheet_29: 66607446
+      rino_spriteSheet_3: -1965159958
+      rino_spriteSheet_30: -1041710480
+      rino_spriteSheet_31: -402371382
+      rino_spriteSheet_4: -1977440491
+      rino_spriteSheet_5: -1117295014
+      rino_spriteSheet_6: -1202803650
+      rino_spriteSheet_7: -1857905040
+      rino_spriteSheet_8: -979139595
+      rino_spriteSheet_9: -989908617
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
